@@ -8,5 +8,5 @@ First Assignment:
 4. Add the created folder to git, push the code to your github.
 5. Review the link to the repository in your team learning session
 
-Second Assignment
-Replicate the voting table in the picture
+Second Assignment:
+- Replicate the voting table in the picture
