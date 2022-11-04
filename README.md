@@ -25,3 +25,6 @@ The recipe page should have the following:
 - A list of food photos (4-6 of them), each of them on a card
 
 - Push your project to GitHub once completed and share the link 
+
+D. Html Project:
+- Using just HTML skeleton, duplicate one of the cards on airtable.com/pricing. 
