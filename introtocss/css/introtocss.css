@@ -1,0 +1,16 @@
+/* This is external CSS for the 4th and 5th item on the list */
+
+.fourth_item{
+    color: blue;
+    font-size: 20px;
+}
+img[alt="BlueCar"]{
+    width: 300px;
+}
+.fifth_item{
+    color: pink;
+    font-size: 20px;
+}
+img[alt="PinkCar"]{
+    width: 300px;
+}

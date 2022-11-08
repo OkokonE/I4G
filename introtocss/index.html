@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Intro To CSS</title>
+    
+    <link rel="stylesheet" href="./css/introtocss.css">
+
+    <style>
+      /* This is internal CSS for the 2nd and 3rd item on the list */
+      #second_item {
+        color: purple;
+        font-size: 20px;
+      }
+      img[alt="PurpleCar"]{
+        width: 300px;
+      }
+      #third_item {
+        color: yellow;
+        font-size: 20px;
+      }
+      img[alt="YellowCar"]{
+        width: 300px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>This is the first practice question for CSS</h1>
+    <ul>
+      <li style="color: red; font-size: 20px">
+        <span>Red</span>
+        <img src="./images/red car.jpg" alt="RedCar" width="300px"/>
+      </li>
+      <li id="second_item">
+        <span>Purple</span>
+        <img src="./images/purple car.jpg" alt="PurpleCar" />
+      </li>
+      <li id="third_item">
+        <span>Yellow</span>
+        <img src="./images/yellow car.jpg" alt="YellowCar" />
+      </li>
+      <li class="fourth_item">
+        <span>Blue</span>
+        <img src="./images/blue car.jpg" alt="BlueCar" />
+      </li>
+      <li class="fifth_item">
+        <span>Pink</span>
+        <img src="./images/pink car.jpg" alt="PinkCar" />
+      </li>
+    </ul>
+  </body>
+</html>
