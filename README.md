@@ -36,3 +36,4 @@ E. Intro to CSS:
 
 - This will be triplicated, the first will be styled using In-line CSS, the second; internal CSS, and the third; External CSS
 
+NOTE: Link for publishing "https://okokone.github.io/I4G/"
