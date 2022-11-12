@@ -1,0 +1,23 @@
+body{
+    background-color: white;
+}
+div{
+    border: 2px solid grey;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+    width: 95%;
+    
+}
+.first{
+    color: green;
+}
+.second{
+    color: red;
+}
+.third{
+    color: blue;
+}
+p{
+    font-size: 14px;
+}
