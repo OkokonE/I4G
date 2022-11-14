@@ -47,3 +47,9 @@ The entire write-up should have a background color “white” and it should be 
 - The second section: Write the heading “Second section” and comment it out (use 18px). Let it contain what you have learned so far and how css is important. The text color should be red. Give formatting to it using bold tags and italics tags and the size should be 14px.
 
 - The third section: Write the heading “Third section” and comment it out (use 18px). Explaining the difference between paddings, margins, and borders. The text color should be blue. Give formatting to it using bold tags and italics tags and the size should be 14px.
+
+G. Inheritance CSS Assignment
+- Create an ordered and unordered list of your likes and dislikes.
+
+- Give class names and id names to both parent tags and children tags. Give stylings to them using both their class names and id to understand specificity as well as an inheritance on stylings.
+

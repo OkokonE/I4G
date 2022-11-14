@@ -1,0 +1,25 @@
+#orderedlist{
+    color: red;
+    font-size: 20px;
+}
+.unordered1{
+    color: blue;
+}
+.unordered11{
+    color: initial;
+}
+.unordered12{
+    color: inherit;
+}
+#dislike1{
+    color: inherit;
+}
+#dislike2{
+    color: initial;
+}
+#dislike3{
+    color: revert;
+}
+#dislike4{
+    color: unset;
+}
