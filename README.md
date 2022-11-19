@@ -55,3 +55,7 @@ G. Inheritance CSS Assignment
 
 H. Classwork for 15/11/22
 - Survey Form
+
+J. CSS Project Assignment
+- Create a portfolio site for yourself. It should include the following: an image of yourself or anything you prefer,a statement / an introduction ,a little bit about yourself
+your skill set list
