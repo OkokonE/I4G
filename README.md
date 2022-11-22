@@ -59,3 +59,5 @@ H. Classwork for 15/11/22
 J. CSS Project Assignment
 - Create a portfolio site for yourself. It should include the following: an image of yourself or anything you prefer,a statement / an introduction ,a little bit about yourself
 your skill set list
+
+- Screenshot link: https://drive.google.com/file/d/1rS4iP7iU293CQy0jsYHJGNZmFWZB_kd7/view?usp=share_link
